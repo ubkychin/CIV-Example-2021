@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Created on 18-03-2021
+// by anguyen
+
+using System;
 
 namespace ExampleProject {
     class Program {
@@ -62,8 +65,6 @@ namespace ExampleProject {
             if ( total < 1000 ) {
                 Console.WriteLine("total is less than 1000");
             }
-
-            Console.WriteLine(name);
 
         }
     }
