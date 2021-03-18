@@ -1,0 +1,15 @@
+/Users/anguyen/Project/ExampleProject/bin/Debug/net5.0/ExampleProject.deps.json
+/Users/anguyen/Project/ExampleProject/bin/Debug/net5.0/ExampleProject.runtimeconfig.json
+/Users/anguyen/Project/ExampleProject/bin/Debug/net5.0/ExampleProject.runtimeconfig.dev.json
+/Users/anguyen/Project/ExampleProject/bin/Debug/net5.0/ExampleProject.dll
+/Users/anguyen/Project/ExampleProject/bin/Debug/net5.0/ref/ExampleProject.dll
+/Users/anguyen/Project/ExampleProject/bin/Debug/net5.0/ExampleProject.pdb
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.csprojAssemblyReference.cache
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.AssemblyInfoInputs.cache
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.AssemblyInfo.cs
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.csproj.CoreCompileInputs.cache
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.dll
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ref/ExampleProject.dll
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.pdb
+/Users/anguyen/Project/ExampleProject/obj/Debug/net5.0/ExampleProject.genruntimeconfig.cache
